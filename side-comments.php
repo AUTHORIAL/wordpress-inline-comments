@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name: Side Comments
- * Plugin URI: 
- * Description: comments chart.
+ * Plugin Name: Authorial's Inline Comments for WordPress
+ * Plugin URI: https://github.com/AUTHORIAL/wordpress-inline-comments
+ * Description: An inline commenting app for wordpress installations, based on sidecomments.js (https://aroc.github.io/side-comments-demo/) and the WordPress commenting system.
  * Version: 1.0
- * Author: Arun
+ * Author: Authorial (authorial.co)
  */
 class SideComments{
 
